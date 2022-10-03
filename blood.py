@@ -1609,7 +1609,7 @@ def printf(txt, delay=0, end='\n', flush=True):
 
 def inputf():
     printf(Colorate.Vertical(Colors.purple_to_red, '''
-  ╔═══[root@Blood]
+  ╔═══[admin@Blood]
   ╚══> ''', True), end=' ')
     
     return input().strip().lower()
@@ -1637,7 +1637,7 @@ def welcome():
       ➡ methods              |         ddos methods
       ➡ credits              |         information
   
-                https://fb.com/tdd.2112.2003
+                https://fb.com/TranDucDuy.User
                            
     ╠═════════╦══════════════$══════════════════╦═════════╣
            ╦══╩═════════════════════════════════╩══╦
@@ -1666,7 +1666,7 @@ def welcome():
         ➡ support              :        @HoTieuBao
         ➡ thanks               :      HaToki & NaSaKi
     
-                    https://fb.com/tdd.2112.2003
+                    https://fb.com/TranDucDuy.User
                              
       ╠═════════╦══════════════$══════════════════╦═════════╣
              ╦══╩═════════════════════════════════╩══╦
@@ -1686,9 +1686,9 @@ def welcome():
              ╩══╦══════════════0══════════════════╦══╩
       ╔═════════╩═════════════════════════════════╩═════════╗          
     
-        ➡ l4                   : tcp, udp, mine, vse, tcpcustom
+        ➡ BotNet                : tcp, udp, mine, vse, tcpcustom
 
-        ➡ l7                   : cfb, pxcfb, cfreq, cfsoc, 
+        ➡ Layer7                 : cfb, pxcfb, cfreq, cfsoc, 
                                  pxsky, sky, get, post, head, 
                                  pps, spoof, pxspoof, soc
                                  pxraw, pxsoc, cfpro, bypass, 
